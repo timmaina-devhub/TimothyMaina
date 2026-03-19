@@ -35,14 +35,16 @@ Turning data into actionable business insights
 
 ### 🛠 My Toolkit
 
+### 🛠 My Toolkit
+
 <p align="left">
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/seaborn.svg" alt="Seaborn"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/scikit-learn.svg" alt="Scikit-Learn"></code>
-  <code><img height="40" src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/images/seaborn.png" alt="Seaborn"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/images/scikit-learn.png" alt="Scikit-Learn"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/images/tableau.png" alt="Tableau"></code>
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel"></code>
 </p>
 ---
