@@ -19,8 +19,8 @@ Turning data into actionable business insights
 
 ## 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="blank">LinkedIn</a> |
-<a href="mailto:your-email@example.com">Email</a>
+<a href="https://www.linkedin.com/in/timothy-maina-43645b1b0/" target="blank">LinkedIn</a> |
+<a href="mailto:mainatimothy384@gmail.com">Email</a>
 </p>
 
 ---
