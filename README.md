@@ -15,9 +15,23 @@ Turning data into actionable business insights
 - 🎯 Aspiring **Data Analyst / Business Analyst / Junior Data Scientist**
 
 ## 🤝 Connect with Me
+### 🤝 Connect with Me
+
 <p align="left">
-<a href="https://www.linkedin.com/in/timothy-maina-43645b1b0/" target="blank">LinkedIn</a> |
-<a href="mailto:mainatimothy384@gmail.com">Email</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" height="40"/>
+  </a>
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/YOUR-PHONENUMBER" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp" height="40"/>
+  </a>
 </p>
 
 ---
