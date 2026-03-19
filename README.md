@@ -42,14 +42,7 @@ Turning data into actionable business insights
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib"></code>
-<!-- Seaborn -->
-<img src="https://cdn.jsdelivr.net" width="40" height="40" alt="seaborn" />
-
-<!-- Scikit-learn -->
-<img src="https://cdn.jsdelivr.net" width="40" height="40" alt="scikit-learn" />
-
-<!-- Tableau -->
-<img src="https://raw.githubusercontent.com" width="40" height="40" alt="tableau" />
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 
   <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" alt="Excel"></code>
 </p>
