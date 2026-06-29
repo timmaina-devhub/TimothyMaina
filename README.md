@@ -1,156 +1,87 @@
-<h1 align="center">Timothy Maina</h1>
+# Timothy Maina
 
-<p align="center">
-Applied Data Scientist <br/>
-Building end-to-end data solutions that drive insight and decision-making
-</p>
+**Applied Data Scientist & Data Analyst | Business Decision Intelligence**
 
----
-
-## 👨‍💻 About Me
-
-I am an applied data scientist focused on transforming raw data into **meaningful insights and predictive solutions**.  
-My work centers on building **end-to-end projects**—from data cleaning and exploration to modeling and visualization.
-
-I combine an **analytical mindset with a business perspective**, ensuring every project delivers clear and actionable outcomes.
-
-- Strong foundation in **data analytics and machine learning**
-- Experience working with **real-world, business-focused datasets**
-- Focused on building **practical, insight-driven solutions**
+Turning raw data into decisions organizations can act on. I build complete analytical systems—from data exploration and feature engineering to predictive modeling, dashboard deployment, and business recommendations.
 
 ---
 
-## 🧩 Featured Projects
+## What I Do
 
-### Credit Risk Modeling & Customer Default Prediction  
-A machine learning project focused on predicting credit risk and supporting financial decision-making.
+Every engagement follows the same consulting framework:
 
-- Performed data preprocessing and risk-focused feature engineering  
-- Built classification models to estimate probability of default  
-- Optimized evaluation using recall to minimize high-risk misclassification  
-- Developed a dashboard to visualize risk segmentation and trends  
+1. **Understand the business** before examining data
+2. **Explore and validate** available data and its quality
+3. **Engineer features** that capture business-relevant signals
+4. **Build and compare** predictive models
+5. **Deploy usable solutions** via APIs and dashboards
+6. **Translate technical results** into clear business recommendations
 
-🔗 <a href="https://github.com/timmaina-devhub/Customer-Credit-Risk-Assessment-Model" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#Customer-Credit-Risk-Assessment" target="_blank">Case Study</a>
-
----
-
-### Supply Chain Analytics & Inventory Optimization  
-A data analytics project focused on improving inventory efficiency and demand planning.
-
-- Analyzed inventory and demand patterns across products  
-- Built forecasting models to predict future demand  
-- Identified stock inefficiencies and optimization opportunities  
-- Designed dashboards to support operational decision-making  
-
-🔗 <a href="https://github.com/timmaina-devhub/Supply-Chain-Analytics-Inventory-Optimization" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#Demand-Forecasting-Inventory-Optimization-System" target="_blank">Case Study</a>
+I focus on three dimensions equally: technical accuracy, business relevance, and communication clarity.
 
 ---
 
-### Fraud Detection System  
-A predictive analytics project designed to detect fraudulent transactions.
+## Domain Experience
 
-- Prepared and processed transaction datasets  
-- Built classification models for fraud detection  
-- Evaluated and improved model performance  
-- Identified anomalous transaction patterns  
+**Marketing Analytics**
+- Marketing attribution and campaign ROI optimization
+- Customer churn prediction and retention strategy
+- Customer segmentation and behavior analysis
 
-🔗 <a href="https://github.com/timmaina-devhub/Fraud-Detection-System" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#fraud-detection" target="_blank">Case Study</a>
+**Finance**
+- Credit risk modeling and default probability estimation
+- Fraud detection through anomaly classification
 
----
-
-### Multi-Channel Marketing Attribution & ROI Optimization  
-A data-driven analytics project designed to evaluate marketing performance and optimize budget allocation.
-
-- Built a Markov Chain model to quantify channel contribution  
-- Developed a Random Forest model to predict revenue outcomes  
-- Engineered campaign and efficiency metrics for improved insights  
-- Analyzed customer journeys to uncover conversion patterns  
-
-🔗 <a href="https://github.com/timmaina-devhub/Multi-Channel-Marketing-Attribution-ROI-Optimization" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#Multi-Channel-Marketing-Attribution-ROI-Optimization" target="_blank">Case Study</a>
+**Operations & Retail**
+- Demand forecasting and inventory optimization
+- Delivery time prediction and route optimization
 
 ---
 
-### Customer Churn Prediction & Segmentation  
-A machine learning project focused on predicting churn and understanding customer behavior.
+## Project Repositories
 
-- Conducted feature engineering and exploratory analysis  
-- Built and evaluated churn prediction models  
-- Applied RFM-based customer segmentation  
-- Identified key drivers of customer churn  
+All projects include full code, documentation, and case studies.
 
-🔗 <a href="https://github.com/timmaina-devhub/Customer-Churn-Analysis-and-Segmentation" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#customer-analysis" target="_blank">Case Study</a>
-
----
-
-### Delivery-Downtime-Prediction-Route-Optimization  
-A predictive analytics project focused on modeling and forecasting traffic congestion patterns.
-
-- Engineered time-based and environmental traffic features  
-- Built regression models to predict congestion levels  
-- Evaluated models using RMSE and R² metrics  
-- Identified key factors influencing traffic flow  
-
-🔗 <a href="https://github.com/timmaina-devhub/Delivery-Downtime-Prediction-Route-Optimization" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#Delivery-Downtime-Route-Optimization" target="_blank">Case Study</a>
+| Project | Focus | Key Methods |
+|---------|-------|-------------|
+| [Customer Churn Prediction & Segmentation](https://github.com/timmaina-devhub/Customer-Churn-Analysis-and-Segmentation) | Classification | Random Forest, RFM Segmentation, FastAPI |
+| [Fraud Detection System](https://github.com/timmaina-devhub/Fraud-Detection-System) | Anomaly Detection | Classification, Pattern Recognition |
+| [Multi-Channel Marketing Attribution & ROI Optimization](https://github.com/timmaina-devhub/Multi-Channel-Marketing-Attribution-ROI-Optimization) | Attribution Modeling | Markov Chains, Random Forest |
+| [Credit Risk Modeling & Customer Default Prediction](https://github.com/timmaina-devhub/Customer-Credit-Risk-Assessment-Model) | Risk Classification | Recall-Optimized Classification |
+| [Supply Chain Analytics & Inventory Optimization](https://github.com/timmaina-devhub/Supply-Chain-Analytics-Inventory-Optimization) | Forecasting | Time Series, Demand Planning |
+| [Delivery Downtime Prediction & Route Optimization](https://github.com/timmaina-devhub/Delivery-Downtime-Prediction-Route-Optimization) | Regression | Time Features, Environmental Variables |
 
 ---
 
-### Sales Performance Analysis Dashboard  
-An end-to-end analytics project exploring sales performance, profitability, and regional trends.
+## Technical Stack
 
-- Cleaned and transformed raw sales data  
-- Performed exploratory data analysis  
-- Built dashboards to communicate insights  
-- Identified key revenue and profitability drivers  
-
-🔗 <a href="https://github.com/timmaina-devhub/superstore-executive-dashboard" target="_blank">View Project</a>  
-📊 <a href="https://timmaina-devhub.github.io/projects#sales-dashboard" target="_blank">Case Study</a>
+**Foundation:** Python | SQL | Statistics  
+**Applied:** pandas | NumPy | scikit-learn | statsmodels | Plotly | matplotlib  
+**Deployment:** FastAPI | Git | GitHub  
+**Developing:** Docker | Cloud Platforms | dbt | Production MLOps
 
 ---
 
-## 🛠️ Tech Stack
+## Professional Approach
 
-**Languages:** Python, SQL  
-**Libraries:** Pandas, NumPy, Scikit-learn  
-**Visualization:** Power BI, Tableau, Matplotlib  
-**Tools:** Git, GitHub, Jupyter Notebook  
+Every project is built as a complete system, not an isolated model. This means:
+- Reproducible, version-controlled code
+- Documentation business users can understand
+- Dashboards designed around decision workflows
+- Clear limitation statements alongside results
 
----
-
-## 📈 Current Focus
-
-I am currently strengthening my expertise in:
-
-- Advanced machine learning and model optimization  
-- End-to-end analytics workflows  
-- Data storytelling and dashboard design  
-- Data engineering fundamentals  
+I believe technology is valuable only when it enables better business decisions.
 
 ---
 
-## 📊 GitHub Stats
+## Open to
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=timmaina-devhub&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=timmaina-devhub&layout=compact&hide_border=true" height="150"/>
-</p>
+Currently evaluating consulting engagements with organizations that value business-first analytics, reproducible systems, and clear communication. Remote-first, enterprise, and internationally distributed environments preferred.
 
 ---
 
-## 🌐 Connect
+## Contact
 
-- 🔗 <a href="https://www.linkedin.com/in/timmaina-devhub" target="_blank">LinkedIn</a>  
-- 📧 <a href="mailto:timothymaina382@gmail.com">Email Me</a>  
-- 🌍 <a href="https://timmaina-devhub.github.io/" target="_blank">Portfolio Website</a>  
-- 💬 <a href="https://wa.me/254789353163" target="_blank">WhatsApp</a>  
-
----
-
-## 📌 Focus
-
-I build end-to-end data projects that demonstrate how analytics and machine learning can be applied to solve real-world business problems and support data-driven decision-making.
+**Email:** timothymaina382@gmail.com  
+**LinkedIn:** linkedin.com/in/timmaina-devhub  
+**Portfolio:** timmaina-devhub.github.io
